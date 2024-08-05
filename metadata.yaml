@@ -1,0 +1,30 @@
+_repo: My-heart-and-my-flesh_74183
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, Elizabeth Madox
+    birthdate: 1881
+    deathdate: 1941
+    gutenberg_agent_id: '9599'
+    url: http://www.gutenberg.org/2009/agents/9599
+description: ''
+gutenberg_issued: '2024-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74183'
+language: en
+pgterms:marc904: https://archive.org/details/myheartmyfleshno00robe/mode/2up
+pgterms:marc905: 20231111115647roberts
+pgterms:marc906: '1927'
+pgterms:marc907: us
+production_note: Gísli Valgeirsson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe Viking Press, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My heart and my flesh
+url: http://www.gutenberg.org/ebooks/74183
