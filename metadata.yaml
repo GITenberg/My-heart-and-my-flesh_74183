@@ -1,5 +1,8 @@
 _repo: My-heart-and-my-flesh_74183
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74183-h/images/cover.jpg
 creator:
   author:
     agent_name: Roberts, Elizabeth Madox
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9599'
     url: http://www.gutenberg.org/2009/agents/9599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74183#My-heart-and-my-flesh
 gutenberg_issued: '2024-08-03'
 gutenberg_type: Text
 identifiers:
